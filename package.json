@@ -1,0 +1,22 @@
+{
+  "name": "ainojs-easing",
+  "version": "1.0.0",
+  "description": "Bezier and easing functions based on Robert Penner's Easing Functions",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aino/ainojs-easing"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aino/ainojs-easing/issues"
+  },
+  "homepage": "https://github.com/aino/ainojs-easing",
+  "main": "easing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aino",
+  "devDependencies": {},
+  "dependencies": {
+  }
+}
