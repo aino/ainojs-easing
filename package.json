@@ -1,6 +1,6 @@
 {
   "name": "ainojs-easing",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Bezier and easing functions based on Robert Penner's Easing Functions",
   "repository": {
     "type": "git",
@@ -17,6 +17,5 @@
   },
   "author": "Aino",
   "devDependencies": {},
-  "dependencies": {
-  }
+  "dependencies": {}
 }
